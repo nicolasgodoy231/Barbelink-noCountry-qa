@@ -57,7 +57,7 @@ Para la organización y seguimiento de las tareas de desarrollo front-end, back-
 | `docs/`                          | Plan de Pruebas y Criterios de Aceptación.       |
 | `evidencias/`                    | Pruebas visuales de la ejecución.                |
 | `incidencias/`                   | Reporte detallado de incidencias.                |
-| `casos_de_pruebas/`              | Hoja con los 136 CPs diseñados en equipo.        |
+| `casos_de_pruebas/`              | Hojas de excel con los casos diseñados en equipo.|
 | `README.md`                      | Documentación técnica principal.                 |
 
 ---
