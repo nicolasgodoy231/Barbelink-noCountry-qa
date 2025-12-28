@@ -56,7 +56,7 @@ Para la organización y seguimiento de las tareas de desarrollo front-end, back-
 |----------------------------------|--------------------------------------------------|
 | `docs/`                          | Plan de Pruebas y Criterios de Aceptación.       |
 | `incidencias/`                   | Reporte detallado de incidencias.                |
-| `casos_de_pruebas/`              | Excel con casos diseñados y links a evidencias.  |
+| `casos_de_pruebas/`              | 2 hojas de excel con casos diseñados y links a evidencias.|
 | `README.md`                      | Documentación técnica principal.                 |
 
 ---
