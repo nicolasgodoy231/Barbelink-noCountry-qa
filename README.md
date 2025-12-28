@@ -8,7 +8,7 @@
 
 ## Objetivo
 Validar funcionalmente la plataforma BarbeLink para asegurar una experiencia de usuario fluida y segura, identificando defectos en:
-- **Autenticación**: Registro e inicio de sesión con validación JWT.
+- **Autenticación**: Registro e inicio de sesión de usuarios y barberías.
 - **Búsqueda**: Filtros por ubicación, precio y servicios.
 - **Gestión de Turnos**: Reserva y cancelación por parte de clientes y barberos.
 - **Dashboard**: Herramientas de administración para barberías.
@@ -36,14 +36,14 @@ Este proyecto fue un esfuerzo conjunto liderado por:
 | Web Mobile   | Chrome DevTools (Vista Responsive)       | 375px a 768px                |
 
 ## Documentación del Proyecto
-- **[Test Plan BarbeLink](docs/Test-Plan-BarbeLink.md)**: Basado en los documentación: "Historias de Usuario Proyecto s21_12_n_webapp_BarbeLink", "Criterios de aceptación" y "Documentación S21-12n webapp".
-- **[Carpeta de Casos de Pruebas](/casos_de_pruebas)**: Consolidado de más de 100 casos de pruebas diseñados por el equipo.
-- **[Carpeta de Evidencias](/evidencias)**: Capturas de pantalla de resultados obtenidos.
+- **[Test Plan BarbeLink](docs/Test-Plan-BarbeLink.md)**: Basado en las Historias de Usuario, Criterios de Aceptación y documentación técnica del equipo.
+- **[Carpeta de Casos de Pruebas](/casos_de_pruebas)**: Hojas de cálculo con los 136 casos diseñados y **enlaces directos a evidencias en Google Drive**.
 - **[Reporte de Incidencias](/incidencias/INCIDENCIAS.md)**: Errores detectados en validaciones de CUIT y filtros de búsqueda.
 
 ## Herramientas Utilizadas
-- **Trello**: Gestión de tareas, seguimiento de historias de usuario y flujo de trabajo.
+- **Trello**: Gestión de tareas, seguimiento de historias de usuario y flujo de trabajo ágil.
 - **Excel / Google Sheets**: Trazabilidad, diseño y ejecución de casos de prueba.
+- **Google Drive**: Almacenamiento centralizado de evidencias (capturas y videos).
 - **Chrome DevTools**: Inspección de elementos, red y diseño responsive.
 - **Documentación**: Markdown y Microsoft Word para reportes finales. GitHub para el control de versiones.
 
@@ -55,9 +55,8 @@ Para la organización y seguimiento de las tareas de desarrollo front-end, back-
 | Carpeta/Archivo                  | Descripción                                      |
 |----------------------------------|--------------------------------------------------|
 | `docs/`                          | Plan de Pruebas y Criterios de Aceptación.       |
-| `evidencias/`                    | Pruebas visuales de la ejecución.                |
 | `incidencias/`                   | Reporte detallado de incidencias.                |
-| `casos_de_pruebas/`              | Hojas de excel con los casos diseñados en equipo.|
+| `casos_de_pruebas/`              | Excel con casos diseñados y links a evidencias.  |
 | `README.md`                      | Documentación técnica principal.                 |
 
 ---
