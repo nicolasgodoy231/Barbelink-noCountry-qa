@@ -1,6 +1,6 @@
 # BarbeLink - Proyecto de Testing Manual (Web & Mobile)
 
-<img src="docs/Imagen1.png" alt="BarbeLink Logo" style="width: 35%;">
+<img src="docs/Imagen1.png" alt="BarbeLink Logo" style="width: 55%;">
 
 **Proyecto de QA Manual** desarrollado en colaboración por un equipo de testing para la plataforma **BarbeLink**, un ecosistema digital diseñado para conectar barberías con clientes y optimizar la gestión de turnos.
 
