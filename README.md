@@ -42,7 +42,7 @@ Este proyecto fue un esfuerzo conjunto liderado por:
 
 ## Herramientas Utilizadas
 - **Trello**: Gestión de tareas, seguimiento de historias de usuario y flujo de trabajo ágil.
-- **Excel / Google Sheets**: Trazabilidad, diseño y ejecución de casos de prueba.
+- **Excel / Google Sheets**: Diseño y ejecución de casos de prueba.
 - **Google Drive**: Almacenamiento centralizado de evidencias (capturas y videos).
 - **Chrome DevTools**: Inspección de elementos, red y diseño responsive.
 - **Documentación**: Markdown y Microsoft Word para reportes finales. GitHub para el control de versiones.
