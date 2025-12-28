@@ -45,7 +45,8 @@ Este proyecto fue un esfuerzo conjunto liderado por:
 - **Excel / Google Sheets**: Diseño y ejecución de casos de prueba.
 - **Google Drive**: Almacenamiento centralizado de evidencias (capturas y videos).
 - **Chrome DevTools**: Inspección de elementos, red y diseño responsive.
-- **Documentación**: Markdown y Microsoft Word para reportes finales. GitHub para el control de versiones.
+- **Documentación**: Markdown y Microsoft Word para reportes finales. 
+- **GitHub para el control de versiones.
 
 ## Gestión del Proyecto
 Para la organización y seguimiento de las tareas de desarrollo front-end, back-end y testing, el equipo utilizó una metodología ágil gestionada a través de Trello.
