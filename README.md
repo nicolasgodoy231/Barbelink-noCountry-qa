@@ -4,7 +4,7 @@
 
 **Proyecto de QA Manual** desarrollado en colaboración por un equipo de testing para la plataforma **BarbeLink**, un ecosistema digital diseñado para conectar barberías con clientes y optimizar la gestión de turnos.
 
-**Acceso a la plataforma:** [https://barbelink.vercel.app/](https://barbelink.vercel.app/)
+**Acceso a la plataforma:** [https://barbelink.vercel.app/](https://barbelink.vercel.app/) <br>
 **Repositorio del proyecto:** [https://github.com/No-Country-simulation/s21-12-n-webapp/](https://github.com/No-Country-simulation/s21-12-n-webapp/)
 
 ## Objetivo
